@@ -1,2 +1,2 @@
-# data_collection_api
-IBM Collecting Data using API
+# IBM Data Analyst Capstone Project
+IBM Data Analyst Capstone Project
